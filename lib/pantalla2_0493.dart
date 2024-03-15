@@ -15,7 +15,7 @@ class Pantalla2_0493State extends State<Pantalla2_0493> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Paguina #2 Jimenez 0493"),
+        title: const Text("Pagina #2 Jimenez 0493"),
         backgroundColor: Color(0xff670984),
       ),
       body: SingleChildScrollView(
